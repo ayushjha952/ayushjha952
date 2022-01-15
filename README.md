@@ -67,7 +67,9 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushjha952&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjha952&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjha952&layout=compact&hide_border=true&theme=radical" />
 </p>
+
 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ayushjha952.ayushjha952" alt="visitors"></p>
 

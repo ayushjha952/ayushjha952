@@ -1,4 +1,4 @@
-# Hey, I am Ayush! Great to see you here! <img src="https://github.com/ayushjha952/ayushjha952/blob/main/wave.gif" width="30px">
+# Hey, I am Ayush! Great to see you here! <img src="https://user-images.githubusercontent.com/25279263/87703301-3aa4a500-c7b8-11ea-8eb6-245121997a7b.png" width="30px">
 
 <img src="https://github.com/ayushjha952/ayushjha952/blob/main/header_.png">
 

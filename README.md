@@ -1,6 +1,6 @@
 # Hey, I am Ayush! Great to see you here! <img src="https://github.com/ayushjha952/ayushjha952/blob/main/wave.gif" width="30px">
 
-<img src="https://drive.google.com/file/d/1XkcSj0tCmqYC4RLXUnO66dlHOosvCWkv/view?usp=sharing">
+<img src="header_1.png">
 
 Hey I am Ayush Jha, currently pursuing my Bachelor's in Information Technology from [BP Poddar Institute of Management and Technology](https://bppimt.ac.in/).
 I am a passionate coder with a zeal to develop applications that make an impact in the real world and eager to learn new things to expand my knowledge.
